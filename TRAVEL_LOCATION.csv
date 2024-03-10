@@ -1,0 +1,946 @@
+1,Chợ nổi Long Xuyên,3,6,54,An Giang
+2,Núi Sam,4,4,54,An Giang
+3,Chùa Bà Chúa Xứ Núi Sam,3,6,54,An Giang
+4,Vườn quốc gia Tràm Chim,4,4,54,An Giang
+5,Chùa Châu Đốc,3,6,54,An Giang
+6,Biển Mũi Nai,5,2,54,An Giang
+7,Bảo tàng tỉnh An Giang,3,3,54,An Giang
+8,Làng nước Ê Đê Ấng Sêr,2,6,54,An Giang
+9,Khu du lịch sinh thái Bình Thủy,5,5,54,An Giang
+10,Chợ nổi Châu Đốc,3,6,54,An Giang
+11,Biển Cần Thơ - Bãi Dứa,5,2,54,An Giang
+12,Đền thờ Trung Nguyên - Tịnh Biên,3,6,54,An Giang
+13,Suối Đá Bàn Thạch Đàm,2,4,54,An Giang
+14,Chùa Tây An - Long Xuyên,3,6,54,An Giang
+15,Khu du lịch sinh thái Long Hiệp,5,5,54,An Giang
+16,Bãi biển Vũng Tàu,5,2,49,Bà Rịa – Vũng Tàu
+17,Quần đảo Côn Đảo,50,2,49,Bà Rịa – Vũng Tàu
+18,Bãi biển Long Hải,10,2,49,Bà Rịa – Vũng Tàu
+19,Cung điện Trắng,8,3,49,Bà Rịa – Vũng Tàu
+20,Núi Minh Đạm,5,4,49,Bà Rịa – Vũng Tàu
+21,Suối nước nóng Bình Châu,15,5,49,Bà Rịa – Vũng Tàu
+22,Bãi biển Back Beach,5,2,49,Bà Rịa – Vũng Tàu
+23,Tượng Chúa Kitô Vũng Tàu,2,6,49,Bà Rịa – Vũng Tàu
+24,Bãi biển Hồ Cốc,10,2,49,Bà Rịa – Vũng Tàu
+25,Đình Cô,2,6,49,Bà Rịa – Vũng Tàu
+26,Bãi biển Hồ Tràm,10,2,49,Bà Rịa – Vũng Tàu
+27,Chùa Phước Hải Tử,2,6,49,Bà Rịa – Vũng Tàu
+28,Hải đăng Vũng Tàu,2,1,49,Bà Rịa – Vũng Tàu
+29,Bãi biển Front Beach,5,2,49,Bà Rịa – Vũng Tàu
+30,Núi Tà Cú,10,4,49,Bà Rịa – Vũng Tàu
+31,Vườn quốc gia Yên Thế,5,2,8,Bắc Giang
+32,Chùa Kênh Tắm,3,6,8,Bắc Giang
+33,Đình Rừng Thông,2,6,8,Bắc Giang
+34,Chùa Châu Thánh,3,6,8,Bắc Giang
+35,Chùa Sùng Khánh,3,6,8,Bắc Giang
+36,Chùa Dơi,3,6,8,Bắc Giang
+37,Đình Dương Đô,2,6,8,Bắc Giang
+38,Chùa Trung Đức,3,6,8,Bắc Giang
+39,Hồ Đá Bàn,5,5,8,Bắc Giang
+40,Cao nguyên đá Đồng Văn,4,4,8,Bắc Giang
+41,Thung lũng Tân Thanh,4,4,8,Bắc Giang
+42,Suối Mỡ,5,5,8,Bắc Giang
+43,Động Moóc,4,4,8,Bắc Giang
+44,Khu du lịch sinh thái Thạch Sơn,5,5,8,Bắc Giang
+45,Hồ Thô,5,5,8,Bắc Giang
+46,Hồ Ba Bể,5,2,3,Bắc Kạn
+47,Động Puông,4,4,3,Bắc Kạn
+48,Hồ Nắm Nhùn,5,5,3,Bắc Kạn
+49,Khu du lịch sinh thái Pác Nặm,5,5,3,Bắc Kạn
+50,Động Hua Mạc,4,4,3,Bắc Kạn
+51,Chùa Ngọc Sơn,3,6,3,Bắc Kạn
+52,Khu du lịch sinh thái Thác Bản Giốc,5,5,3,Bắc Kạn
+53,Động Ngườm Ngao,4,4,3,Bắc Kạn
+54,Động Đào Lodge,5,5,3,Bắc Kạn
+55,Khu du lịch sinh thái Hòa Bình,5,5,3,Bắc Kạn
+56,Khu di tích lịch sử Hùng King,3,6,3,Bắc Kạn
+57,Hồ Động Đà,5,5,3,Bắc Kạn
+58,Chùa Thanh Mai,3,6,3,Bắc Kạn
+59,Bản Lùng,4,4,3,Bắc Kạn
+60,Khu di tích lịch sử Vụ Bản,3,6,3,Bắc Kạn
+61,Vùng biển Cà Mau - Bạc Liêu,5,2,61,Bạc Liêu
+62,Cồn Cỏ,4,2,61,Bạc Liêu
+63,Bảo tàng tỉnh Bạc Liêu,3,3,61,Bạc Liêu
+64,Khu du lịch sinh thái Vọng Cảnh,5,5,61,Bạc Liêu
+65,Công viên biển Hòa Bình,5,2,61,Bạc Liêu
+66,Chùa Long Điền,3,6,61,Bạc Liêu
+67,Đầm Cái Cung,4,2,61,Bạc Liêu
+68,Biển Phương Bình,5,2,61,Bạc Liêu
+69,Chợ nổi Vĩnh Hậu,3,6,61,Bạc Liêu
+70,Đầm Văn Phùng,4,2,61,Bạc Liêu
+71,Bảo tàng huyện Phước Long,3,3,61,Bạc Liêu
+72,Chợ nổi Nào Cống,3,6,61,Bạc Liêu
+73,Bảo tàng Cải Lương,3,3,61,Bạc Liêu
+74,Rừng tràm Trần Đề,4,4,61,Bạc Liêu
+75,Chợ nổi Bạc Liêu,3,6,61,Bạc Liêu
+76,Đền Dô,3,6,16,Bắc Ninh
+77,Chùa Dâu,3,6,16,Bắc Ninh
+78,Làng nghề đúc đồng Đông Hồ,3,6,16,Bắc Ninh
+79,Cụm di tích Văn Miếu Quốc Tử Giám Bắc Ninh,3,6,16,Bắc Ninh
+80,Làng gốm Bát Tràng,3,6,16,Bắc Ninh
+81,Chùa Phật Tích,3,6,16,Bắc Ninh
+82,Bảo tàng Quốc gia Bắc Ninh,3,3,16,Bắc Ninh
+83,Khu du lịch sinh thái Đồng Giao,5,5,16,Bắc Ninh
+84,Chùa But Thap,3,6,16,Bắc Ninh
+85,Công viên biển Đền Đông,5,2,16,Bắc Ninh
+86,Chùa Dương Đô,3,6,16,Bắc Ninh
+87,Đại Lễ,3,6,16,Bắc Ninh
+88,Công viên văn hóa Đền Lừ,5,5,16,Bắc Ninh
+89,Đền Bà Chúa Kho,3,6,16,Bắc Ninh
+90,Khu di tích lịch sử Dâu Pagoda,3,6,16,Bắc Ninh
+91,Cồn Phụng,5,2,55,Bến Tre
+92,Đảo Rạch Miễu,3,2,55,Bến Tre
+93,Cánh đồng dừa Bến Tre,2,5,55,Bến Tre
+94,Khu du lịch sinh thái Bến Tre,5,5,55,Bến Tre
+95,Cồn Vành Khuyên,4,2,55,Bến Tre
+96,Cây điệp vườn Rừng,2,5,55,Bến Tre
+97,Khu du lịch sinh thái An Hiệp,5,5,55,Bến Tre
+98,Chùa Tòa Thánh,3,6,55,Bến Tre
+99,Đầm Dơi,4,2,55,Bến Tre
+100,Cánh đồng mặt trời,2,5,55,Bến Tre
+101,Khu du lịch sinh thái Sơn Đốc,5,5,55,Bến Tre
+102,Khu du lịch sinh thái Cồn Sơn,5,5,55,Bến Tre
+103,Đền ông Hòa,3,6,55,Bến Tre
+104,Bảo tàng tỉnh Bến Tre,3,3,55,Bến Tre
+105,Chợ nổi Cái Mơn,3,6,55,Bến Tre
+106,Biển Quy Nhơn,5,2,35,Bình Định
+107,Bãi Xép,3,2,35,Bình Định
+108,Cù Lao Xanh,4,2,35,Bình Định
+109,Chùa Ông Núi,3,6,35,Bình Định
+110,Hòn Khô,3,2,35,Bình Định
+111,Bảo tàng Quang Trung,3,3,35,Bình Định
+112,Suối Hội Vân,4,5,35,Bình Định
+113,Bãi Dứa,3,2,35,Bình Định
+114,Khu du lịch sinh thái FLC Quy Nhơn,5,5,35,Bình Định
+115,Chùa Hòa Thắng,3,6,35,Bình Định
+116,Hòn Sẹo,3,2,35,Bình Định
+117,Bãi Rạn,3,2,35,Bình Định
+118,Khu du lịch sinh thái Nhơn Hội,5,5,35,Bình Định
+119,Đèo Cù Mông,4,4,35,Bình Định
+120,Chợ nổi Nhơn Hải,3,6,35,Bình Định
+121,Công viên nước Đại Nam,5,5,46,Bình Dương
+122,Công viên Đồng Nai,3,5,46,Bình Dương
+123,Khu du lịch sinh thái Đại Nam,5,5,46,Bình Dương
+124,Công viên Suối Tiên Bình Dương,5,5,46,Bình Dương
+125,Khu du lịch sinh thái Đồi Hồng,5,5,46,Bình Dương
+126,Công viên Thiên Hương,3,5,46,Bình Dương
+127,Khu du lịch sinh thái Đại Phước Riverside,5,5,46,Bình Dương
+128,Công viên Tuổi Trẻ Bình Dương,3,5,46,Bình Dương
+129,Khu du lịch sinh thái Sơn Tiên,5,5,46,Bình Dương
+130,Công viên Đại Phước,3,5,46,Bình Dương
+131,Khu du lịch sinh thái Đồi Cây Cỏ,5,5,46,Bình Dương
+132,Công viên Nhật Nguyệt,3,5,46,Bình Dương
+133,Khu du lịch sinh thái Cây Xanh Đại Phước,5,5,46,Bình Dương
+134,Công viên Bình Dương,3,5,46,Bình Dương
+135,Thác Giang Điền,3,4,45,Bình Phước
+136,Hồ Đa Đa,2,5,45,Bình Phước
+137,Đồi Phước Long,2,4,45,Bình Phước
+138,Công viên Đa Phước,2,5,45,Bình Phước
+139,Bảo tàng tỉnh Bình Phước,2,3,45,Bình Phước
+140,Suối Cam,2,4,45,Bình Phước
+141,Cây Bàu Hùng,2,5,45,Bình Phước
+142,Suối Sâu,2,4,45,Bình Phước
+143,Đồi Thông Cụt,2,4,45,Bình Phước
+144,Đình Mới,2,6,45,Bình Phước
+145,Núi Bà Đen,2,4,45,Bình Phước
+146,Chùa Linh Phước,2,6,45,Bình Phước
+147,Đảo Mắm,2,2,45,Bình Phước
+148,Khu du lịch sinh thái Bàu Né,3,5,45,Bình Phước
+149,Công viên nước Suối Tiên,3,5,45,Bình Phước
+150,Biển Mũi Né,5,2,39,Bình Thuận
+151,Cồn Cỏ,4,2,39,Bình Thuận
+152,Đồi Cát Phan Thiết,4,4,39,Bình Thuận
+153,Bảo tàng Hồ Chí Minh,3,3,39,Bình Thuận
+154,Công viên Giải trí Suối Tiên Mũi Né,3,5,39,Bình Thuận
+155,Tháp Chàm Poshanu,3,6,39,Bình Thuận
+156,Suối nước nóng Bàu Trắng,4,5,39,Bình Thuận
+157,Đèo Dốc Phan Rang,4,4,39,Bình Thuận
+158,Đèo Cù Mông,4,4,39,Bình Thuận
+159,Bảo tàng Lạc Việt,3,3,39,Bình Thuận
+160,Chợ nổi Phan Rang,3,6,39,Bình Thuận
+161,Khu du lịch sinh thái Cà Ná,5,5,39,Bình Thuận
+162,Chùa Bàu Trắng,3,6,39,Bình Thuận
+163,Bãi biển Phú Quý,5,2,39,Bình Thuận
+164,Công viên nước Hàm Tân,5,5,39,Bình Thuận
+165,Biển Cà Mau,5,2,62,Cà Mau
+166,Mũi Cà Mau,4,2,62,Cà Mau
+167,Hòn Đá Bạc,3,2,62,Cà Mau
+168,Rừng tràm Trần Đề,4,4,62,Cà Mau
+169,Công viên biển Đền Đông,5,2,62,Cà Mau
+170,Công viên cây xanh Cà Mau,3,5,62,Cà Mau
+171,Chùa Đất Sét,3,6,62,Cà Mau
+172,Đầm Cái Cung,4,2,62,Cà Mau
+173,Bãi biển Hòn Đốc,3,2,62,Cà Mau
+174,Khu du lịch sinh thái Cần Giờ,5,5,62,Cà Mau
+175,Chợ nổi Đình Bà,3,6,62,Cà Mau
+176,Bảo tàng tỉnh Cà Mau,3,3,62,Cà Mau
+177,Công viên Mũi Ngọt,5,5,62,Cà Mau
+178,Công viên nước Lê Minh Xuân,5,5,62,Cà Mau
+179,Khu du lịch sinh thái Thới Bình,5,5,62,Cà Mau
+180,Cái Răng Floating Market,3,2,63,Cần Thơ
+181,Khu du lịch sinh thái Cần Thơ Ecolodge,5,5,63,Cần Thơ
+182,Bảo tàng Cần Thơ,3,3,63,Cần Thơ
+183,Vườn trái cây Bến Tre,3,5,63,Cần Thơ
+184,Công viên nước Khu du lịch sinh thái Trúc Lâm Phương Nam,3,5,63,Cần Thơ
+185,Đền ông Hòa,3,6,63,Cần Thơ
+186,Công viên nước Lê Lợi,5,5,63,Cần Thơ
+187,Bảo tàng Mỹ thuật Cần Thơ,3,3,63,Cần Thơ
+188,Công viên nước Cần Thơ Waterland,5,5,63,Cần Thơ
+189,Chùa Ông,3,6,63,Cần Thơ
+190,Công viên hoa Đông Phương,3,5,63,Cần Thơ
+191,Khu du lịch sinh thái Mỹ Khánh,5,5,63,Cần Thơ
+192,Chợ nổi Cái Răng,3,6,63,Cần Thơ
+193,Công viên nước Vinpearl Cần Thơ,5,5,63,Cần Thơ
+194,Chùa Bửu Đài Sơn,3,6,63,Cần Thơ
+195,Bản Giốc - Đất Cảng Quốc Tế,2,2,2,Cao Bằng
+196,Thác Bản Giốc,2,4,2,Cao Bằng
+197,Hồ Ba Bể,3,4,2,Cao Bằng
+198,Hồ Động Đại Sơn,3,4,2,Cao Bằng
+199,Hồ Thang Hen,3,4,2,Cao Bằng
+200,Chợ nổi Ngọc Con,2,6,2,Cao Bằng
+201,Làng nước Đàm Thủy,2,6,2,Cao Bằng
+202,Làng nước Pác Rẩy,2,6,2,Cao Bằng
+203,Khu di tích Lý Thái Tổ,3,3,2,Cao Bằng
+204,Công viên Quốc gia Pù Mát,4,4,2,Cao Bằng
+205,Làng nước Nà Phòn,2,6,2,Cao Bằng
+206,Hồ nước mặn ấn Độh,3,5,2,Cao Bằng
+207,Vườn Quốc gia Cao Bằng,4,4,2,Cao Bằng
+208,Làng nước Bản Pác,2,6,2,Cao Bằng
+209,Khu du lịch sinh thái Thanh Lãng,5,5,2,Cao Bằng
+210,Bãi biển Mỹ Khê,5,2,32,Đà Nẵng
+211,Bà Nà Hills,5,2,32,Đà Nẵng
+212,Cầu Rồng,3,3,32,Đà Nẵng
+213,Lăng Ông,3,6,32,Đà Nẵng
+214,Công viên biển Đông,5,5,32,Đà Nẵng
+215,Chùa Linh Ứng,3,6,32,Đà Nẵng
+216,Công viên biển Phạm Văn Đồng,5,5,32,Đà Nẵng
+217,Bảo tàng Đà Nẵng,3,3,32,Đà Nẵng
+218,Công viên giải trí Asia Park,5,5,32,Đà Nẵng
+219,Chùa Mỹ Sơn,3,6,32,Đà Nẵng
+220,Sông Hàn,4,5,32,Đà Nẵng
+221,Khu du lịch sinh thái Suối Khoái,5,5,32,Đà Nẵng
+222,Cầu Trần Thị Lý,3,3,32,Đà Nẵng
+223,Khu du lịch sinh thái Ba Na - Suối Mơ,5,5,32,Đà Nẵng
+224,Bảo tàng 3D Art in Paradise,3,3,32,Đà Nẵng
+225,Chợ Buôn Ma Thuột,3,6,42,Đắk Lắk
+226,Khu du lịch sinh thái Dray Nur,5,5,42,Đắk Lắk
+227,Hồ Lắk,3,4,42,Đắk Lắk
+228,Làng nước Ede Buôn Ma Thuột,2,6,42,Đắk Lắk
+229,Thác Gia Long,4,4,42,Đắk Lắk
+230,Rừng quốc gia Yok Đôn,4,4,42,Đắk Lắk
+231,Chợ nổi Liên Sơn,3,6,42,Đắk Lắk
+232,Chùa Thiền Trúc Lâm Tây Thiên,3,6,42,Đắk Lắk
+233,Bảo tàng Đắk Lắk,3,3,42,Đắk Lắk
+234,Hồ Ea Kao,3,4,42,Đắk Lắk
+235,Thác Đray Sap,4,4,42,Đắk Lắk
+236,Công viên Yersin Buôn Ma Thuột,3,5,42,Đắk Lắk
+237,Khu du lịch sinh thái Lắk Lake,5,5,42,Đắk Lắk
+238,Làng nước Jarai Plei Kần,2,6,42,Đắk Lắk
+239,Suối mơ Dak Mil,2,4,42,Đắk Lắk
+240,Chùa Huệ Đức Đăk Nông,15,6,43,Đắk Nông
+241,Thác Diệu Thanh,0,3,43,Đắk Nông
+242,Thác Ba Tầng Đăk Nông,2,3,43,Đắk Nông
+243,Thác Liêng Nung,0,3,43,Đắk Nông
+244,Khu Du Lịch Phước Sơn Ðăk Nông,10,1,43,Đắk Nông
+245,Chùa Pháp Hoa Ðăk Nông,1,6,43,Đắk Nông
+246,Hồ Trúc Ðắk Nông,2,3,43,Đắk Nông
+247,Hang Ðộng Núi Lửa Chu Bluk Ðắk Nông,2,3,43,Đắk Nông
+248,Thác Luu Ly Ðắk Nông,0,3,43,Đắk Nông
+249,Vu Ðiệu Cồng Chiên Tây Nguyên Ðắk Nông,0,1,43,Đắk Nông
+250,Khu Du Lịch Sinh Thái Troh Bu Ðắk Nông,0,3,43,Đắk Nông
+251,Bảo Tàng Các Dân Tộc Việt Nam Ðắk Nông,0,1,43,Đắk Nông
+252,Hồ Ea Snô Ðắk Nông,0,3,43,Đắk Nông
+253,Hồ Tây Ðắk Nông,1,3,43,Đắk Nông
+254,Ðồi A1-Ðiện Biên Phủ,0,1,12,Điện Biên
+255,Nghia trang liệt sĩ Ðồi A1,0,1,12,Điện Biên
+256,Hầm Ðờ Cát-Ðiện Biên Phủ,10,1,12,Điện Biên
+257,Sở chỉ huy chiến dịch Ðiện Biên Phủ,15,1,12,Điện Biên
+258,Bảo tàng chiến thắng Ðiện Biên Phủ,1,1,12,Điện Biên
+259,Cánh đồng Mường Thanh,0,1,12,Điện Biên
+260,Tượng Ðường Kéo Pháo,2,1,12,Điện Biên
+261,Ðèo Pha Ðin,10,3,12,Điện Biên
+262,Khu du lịch Hồ Pá Khoang,5,3,12,Điện Biên
+263,Ðộng Pa Thom,15,3,12,Điện Biên
+264,Thành Bản Phủ,0,1,12,Điện Biên
+265,Suối nước nóng U Va,0,3,12,Điện Biên
+266,Suối khoáng nóng Hua Pe,0,3,12,Điện Biên
+267,Hang Thẩm Púa,0,3,12,Điện Biên
+268,Vườn Anh Ðào Mường Phang,0,3,12,Điện Biên
+269,Khu vui choi Bò Cạp Vàng,2,5,47,Đồng Nai
+270,Vườn Quốc gia Nam Cát Tiên,0,3,47,Đồng Nai
+271,Thác Giang Ðiền,2,3,47,Đồng Nai
+272,Khu du lịch Bửu Long,1,1,47,Đồng Nai
+273,Khu du lịch Vườn Xoài,0,1,47,Đồng Nai
+274,Văn miếu Trấn Biên,1,1,47,Đồng Nai
+275,Thiền viện Thuơng Chiếu,0,6,47,Đồng Nai
+276,Ðá ba chồng,0,3,47,Đồng Nai
+277,Núi Chứa Chan,0,2,47,Đồng Nai
+278,Công viên Suối Mơ,0,3,47,Đồng Nai
+279,Khu du lịch Ðảo Ó,0,2,47,Đồng Nai
+280,Thác Mai,0,3,47,Đồng Nai
+281,Làng bưởi Nam Huệ Tân Triều,0,5,47,Đồng Nai
+282,Hồ Suối Vàng,0,3,47,Đồng Nai
+283,Chùa Bạch Liên,5,6,47,Đồng Nai
+284,Khu du lịch Xẻo Quýt,5,1,52,Đồng Tháp
+285,Khu du lịch sinh thái Ðồng Sen Tháp Mười,1,3,52,Đồng Tháp
+286,Vườn quốc gia Tràm Chim,5,3,52,Đồng Tháp
+287,Nhà cổ Hùynh Thủy Lê,2,1,52,Đồng Tháp
+288,Chùa Lá Sen,5,6,52,Đồng Tháp
+289,Vườn quýt Hồng Lai Vung,3,3,52,Đồng Tháp
+290,Vườn chà là Ðồng Tháp,3,3,52,Đồng Tháp
+291,Khu du lịch sinh thái Gáo Giồng,1,3,52,Đồng Tháp
+292,Khu di tích Lăng cụ phó bảng Nguyễn Sinh Sắc,5,1,52,Đồng Tháp
+293,Chùa Long Phước,5,6,52,Đồng Tháp
+294,Chùa Ông Kiến An Cung,5,6,52,Đồng Tháp
+295,Khu di tích Gò Tháp,5,1,52,Đồng Tháp
+296,Chùa Phước Kiến,5,6,52,Đồng Tháp
+297,Khu Du Lịch Sinh Thái Nam Huong,1,3,52,Đồng Tháp
+298,Bảo Tàng Ðồng Tháp,5,1,52,Đồng Tháp
+299,Biển hồ T'Nưng,0,3,41,Gia Lai
+300,Thác Phú Cường,0,3,41,Gia Lai
+301,Ðồng xanh,0,3,41,Gia Lai
+302,Núi lửa Chu Ðang Ya,0,3,41,Gia Lai
+303,Hồ Thác Bà,0,3,41,Gia Lai
+304,Núi Hàm Rồng,0,2,41,Gia Lai
+305,Thác Xung Khoeng,0,3,41,Gia Lai
+306,Thác chín tầng,0,3,41,Gia Lai
+307,Khu bảo tồn thiên nhiên Kon Jang Rang,0,3,41,Gia Lai
+308,Vườn quốc gia Kon Ka Kinh,2,3,41,Gia Lai
+309,Chùa Minh Thành,5,6,41,Gia Lai
+310,Nhà tù Pleiku,3,1,41,Gia Lai
+311,Thác Hang Én,0,3,41,Gia Lai
+312,Ðập Tân Son,3,1,41,Gia Lai
+313,Núi Ðá Pleiku,0,2,41,Gia Lai
+314,Di tích lịch sử Cảng Bắc Mê,5,1,1,Hà Giang
+315,Ðỉnh núi Chiều Lầu Thi,0,2,1,Hà Giang
+316,Chợ tình Khâu Vai,0,5,1,Hà Giang
+317,Làng van hóa du lịch dân Dao thôn Buông xã Tiên Yên,5,1,1,Hà Giang
+318,Khu du lịch sinh thái lòng hồ sông Chung,1,3,1,Hà Giang
+319,H'Noong,0,3,1,Hà Giang
+320,Chùa Sùng Khánh,5,6,1,Hà Giang
+321,Thảo nguyên Suôi Thầu,0,3,1,Hà Giang
+322,Khu du lịch Thác Tiên - Ðèo Gió,1,3,1,Hà Giang
+323,Rừng thông Yên Minh,0,3,1,Hà Giang
+324,Núi Cầm Sơn,0,2,1,Hà Giang
+325,Chợ Quyết Tiến,0,5,1,Hà Giang
+326,Núi đôi Quản Bạ,0,2,1,Hà Giang
+327,Ðộng Lùng Khúy,0,3,1,Hà Giang
+328,Làng dệt thổ câm Lùng Tám,2,1,1,Hà Giang
+329,Khu du lịch Tam Chúc,5,1,17,Hà Nam
+330,Hang Luồn,0,3,17,Hà Nam
+331,Ðộng Phúc Long,0,3,17,Hà Nam
+332,Nhà Bá Kiến - Làng Vu Ðại,3,1,17,Hà Nam
+333,Làng Trống Ðọi Tam,0,1,17,Hà Nam
+334,Làng Nghề Dệt Lụa Tơ Tầm Nha Xá,0,1,17,Hà Nam
+335,Làng Kho Cá Vũ Ðại,1,5,17,Hà Nam
+336,Núi Cấm,1,2,17,Hà Nam
+337,Núi Chùa Thôn Châu,0,6,17,Hà Nam
+338,Sông Ðáy,0,3,17,Hà Nam
+339,Làng Mây Tre Ðan Ngọc Ðộng,1,1,17,Hà Nam
+340,Ngũ Ðộng Thị Sơn,0,3,17,Hà Nam
+341,Ðan Trúc,0,6,17,Hà Nam
+342,Chùa Tam Giáo,0,6,17,Hà Nam
+343,Làng thêu ren Thanh Hà,0,1,17,Hà Nam
+344,Quảng trường Ba Ðình - Lăng Bác,10,1,18,Hà Nội
+345,Phố cổ Hà Nội,0,1,18,Hà Nội
+346,Văn Miếu Quốc Tử Giám,10,1,18,Hà Nội
+347,Nhà thờ lớn Hà Nội,1,6,18,Hà Nội
+348,Hồ Tây,0,3,18,Hà Nội
+349,Nhà hát lớn Hà Nội,0,1,18,Hà Nội
+350,Nhà tù Hỏa Lò,0,1,18,Hà Nội
+351,Chùa Một Cột,0,6,18,Hà Nội
+352,Hoàng thành Thang Long,0,1,18,Hà Nội
+353,Cột cờ Hà Nội,0,1,18,Hà Nội
+354,Chùa Trấn Quốc,0,6,18,Hà Nội
+355,Cầu Long Biên,0,1,18,Hà Nội
+356,Ga Hà Nội,1,1,18,Hà Nội
+357,Chợ Ðồng Xuân,0,5,18,Hà Nội
+358,Ðền Quán Thánh,0,6,18,Hà Nội
+359,Vườn Quốc gia Vu Quang,2,3,28,Hà Tĩnh
+360,Khu du lịch sinh thái hồ Trại Tiểu,5,3,28,Hà Tĩnh
+361,Khu du lịch sinh thái Sơn Kim,15,3,28,Hà Tĩnh
+362,Biển Thiên Cầm,0,2,28,Hà Tĩnh
+363,Bãi biển Xuân Thành,0,2,28,Hà Tĩnh
+364,Bãi biển Thạch Hải,0,2,28,Hà Tĩnh
+365,Bãi biển Kỳ Xuân,0,2,28,Hà Tĩnh
+366,Chùa Huơng Tích,0,6,28,Hà Tĩnh
+367,Di tích lịch sử Ngã ba Ðồng Lộc,1,1,28,Hà Tĩnh
+368,Núi Hồng Linh,0,2,28,Hà Tĩnh
+369,Chùa Thiên Tượng,0,6,28,Hà Tĩnh
+370,Khu di tích Nguyễn Du,0,1,28,Hà Tĩnh
+371,Khu di tích cổ Tổng Bí thư Trần Phú,2,1,28,Hà Tĩnh
+372,Ðèo Ngang,0,3,28,Hà Tĩnh
+373,Quần thể di tích Hải thuợng lãn ông Lê Hữu Trác,2,1,28,Hà Tĩnh
+374,Ðảo Cò Chi Lang Nam,0,2,19,Hải Dương
+375,Khu di tích Côn Sơn - Kiếp Bạc,3,1,19,Hải Dương
+376,Văn miếu Mao Ðiền,5,1,19,Hải Dương
+377,Bảo tàng tỉnh Hải Dương,20,1,19,Hải Dương
+378,Ðền thờ Chu Văn An,10,6,19,Hải Dương
+379,Lưu quan âm Giáng Ngọc,0,6,19,Hải Dương
+380,Quần thể An Phụ - Kính Chủ - Nhẫm Dương,1,1,19,Hải Dương
+381,Ðền Ðươi,0,6,19,Hải Dương
+382,Chùa Giám,0,6,19,Hải Dương
+383,Chùa Thanh Mai,0,6,19,Hải Dương
+384,Chùa Bạch Hào,0,6,19,Hải Dương
+385,Ðền Tranh Ninh Giang,0,6,19,Hải Dương
+386,Hồ Bạch Ðằng,0,3,19,Hải Dương
+387,Rừng phong lá đỏ,0,3,19,Hải Dương
+388,Cánh đồng cà rốt,1,5,19,Hải Dương
+389,Làng gốm Chu Ðậu,10,1,19,Hải Dương
+390,Làng thêu Xuân Nẻo,5,1,19,Hải Dương
+391,Nhà hát lớn Hải Phòng,10,1,20,Hải Phòng
+392,Bảo tàng Hải Phòng,10,1,20,Hải Phòng
+393,Phố cổ Hải Phòng,1,1,20,Hải Phòng
+394,Bãi biển Ðồ Sơn,0,2,20,Hải Phòng
+395,Hồ Tam Bạc,0,3,20,Hải Phòng
+396,Chợ Hàng,0,5,20,Hải Phòng
+397,Nhà thờ lớn Hải Phòng,0,6,20,Hải Phòng
+398,Chùa tháp Tường Long,0,6,20,Hải Phòng
+399,Vườn quốc gia Cát Bà,7,3,20,Hải Phòng
+400,Vịnh Lan Hạ,0,3,20,Hải Phòng
+401,Bạch Ðằng Giang,10,1,20,Hải Phòng
+402,Núi Voi,0,2,20,Hải Phòng
+403,Bãi tắm Cát Cò,0,2,20,Hải Phòng
+404,Đảo Bạch Long Vĩ,5,2,20,Hải Phòng
+405,Khu di tích Trang Kenh,10,1,20,Hải Phòng
+406,Công viên Giải trí Kittyd & Minnied,18,5,58,Hậu Giang
+407,Công viên Ánh Sáng Kỳ Quan Cổ Ðại - The Miracle,18,5,58,Hậu Giang
+408,Ðền thờ Bác Hồ,10,1,58,Hậu Giang
+409,Thiền viện Trúc Lâm Hậu Giang,0,6,58,Hậu Giang
+410,Khu di tích Chiến thắng Tầm Vu,11,1,58,Hậu Giang
+411,Nhà thờ Trà Lồng,0,6,58,Hậu Giang
+412,Khu Di Tích Huyện Long Mỹ,11,1,58,Hậu Giang
+413,Công viên Xà No,5,5,58,Hậu Giang
+414,Khu Du lịch Sinh Thái Phú Hữu,18,3,58,Hậu Giang
+415,Chợ đêm Vị Thanh,0,5,58,Hậu Giang
+416,Chợ Nổi Ngã Bảy,0,5,58,Hậu Giang
+417,Khu Di tích căn cứ tỉnh ủy Cần Thơ,0,1,58,Hậu Giang
+418,Khu bảo tồn thiên nhiên Lung Ngọc Hoàng,10,3,58,Hậu Giang
+419,Vườn Sinh Thái Thạch Sanh Farm,10,3,58,Hậu Giang
+420,Chợ Cái Son,0,5,58,Hậu Giang
+421,Khu du lịch Mai Châu,10,1,13,Hòa Bình
+422,Ðộng Thiên Long,0,3,13,Hòa Bình
+423,Nhà máy thủy điện Hoà Bình,0,1,13,Hòa Bình
+424,Ðèo Ðá Trắng,0,2,13,Hòa Bình
+425,Khu du lịch Thác Thang Thiên,10,1,13,Hòa Bình
+426,Ðộng Thác Bờ,0,3,13,Hòa Bình
+427,Suối khoáng Kim Bôi,5,3,13,Hòa Bình
+428,Ðộng Hoa Tiên,0,3,13,Hòa Bình
+429,Mộ cổ Đồng Thếch,10,1,13,Hòa Bình
+430,Ðộng Tiên Phi,0,3,13,Hòa Bình
+431,Bảo tàng không gian van hóa Mường,5,1,13,Hòa Bình
+432,Ðèo Thung Khe,0,2,13,Hòa Bình
+433,Cột cờ Mai Châu,1,1,13,Hòa Bình
+434,Nhà trung bày hiện vật cổ vật van hóa Thái - Mai Châu,13,1,13,Hòa Bình
+435,Hang Mỏ Luông,0,3,13,Hòa Bình
+436,Ðền Chử Ðồng Tử,0,6,21,Hưng Yên
+437,Chùa Hiến,0,6,21,Hưng Yên
+438,Làng nghề đúc đồng,0,1,21,Hưng Yên
+439,Phố Hiến,0,1,21,Hưng Yên
+440,Làng Nôm,0,1,21,Hưng Yên
+441,Ðền Phượng Hoàng,0,6,21,Hưng Yên
+442,Chùa Hương Lãng,0,6,21,Hưng Yên
+443,Ðền Trần,0,6,21,Hưng Yên
+444,Ðền Dạ Trạch,0,6,21,Hưng Yên
+445,Khu tưởng niệm cố tổng bí thu Nguyễn Văn Linh,10,1,21,Hưng Yên
+446,Cầu Ðá Cổ,0,1,21,Hưng Yên
+447,Chùa Chuông,0,6,21,Hưng Yên
+448,Chùa Nôm,0,6,21,Hưng Yên
+449,Ðền Ghênh,0,6,21,Hưng Yên
+450,Hồ Bán Nguyệt,0,3,21,Hưng Yên
+451,Vinpearl Nha Trang,30,5,37,Khánh Hòa
+452,Ðảo Robinson Nha Trang,0,2,37,Khánh Hòa
+453,Bãi biển Ðại Lãnh,0,2,37,Khánh Hòa
+454,Ðảo Hòn Mun,0,2,37,Khánh Hòa
+455,Tháp Bà PoNagar,0,6,37,Khánh Hòa
+456,Tháp Bà Ponagar,0,1,37,Khánh Hòa
+457,Nhà Thờ Ðá,0,6,37,Khánh Hòa
+458,Thác Yang Bay,0,3,37,Khánh Hòa
+459,Suối Ba Hồ,0,3,37,Khánh Hòa
+460,Bãi biển Doc Let,0,2,37,Khánh Hòa
+461,Khu vui choi VinWonders,30,5,37,Khánh Hòa
+462,Chùa Từ Vân,0,6,37,Khánh Hòa
+463,Khu du lịch Suối Hoa Lan,5,3,37,Khánh Hòa
+464,Khu du lịch Doc Let,10,1,37,Khánh Hòa
+465,Bãi Biển Nha Trang,0,2,37,Khánh Hòa
+466,Bãi tắm Sao,0,2,59,Kiên Giang
+467,Vinpearl Safari Phú Quốc,30,5,59,Kiên Giang
+468,Vườn quốc gia U Minh Thuợng,10,3,59,Kiên Giang
+469,Thiền viện Trúc Lâm - Chùa Hộ Quốc,0,6,59,Kiên Giang
+470,Ðảo Nam Du,0,2,59,Kiên Giang
+471,Làng chài Rạch Vẹm,0,1,59,Kiên Giang
+472,Vườn quốc gia Phú Quốc,13,3,59,Kiên Giang
+473,Bãi Dài Phú Quốc,0,2,59,Kiên Giang
+474,Grand World Phú Quốc,30,5,59,Kiên Giang
+475,Thạch Ðộng,0,3,59,Kiên Giang
+476,Ðình thần Nguyễn Trung Trực,0,6,59,Kiên Giang
+477,Núi Ðá Dựng,0,2,59,Kiên Giang
+478,Công viên van hóa An Hòa,10,5,59,Kiên Giang
+479,Nhà bảo tàng Kiên Giang,5,1,59,Kiên Giang
+480,Chùa Láng Cát-chùa Ratanaransi,0,6,59,Kiên Giang
+481,Chùa Tam Bảo,0,6,59,Kiên Giang
+482,Nhà thờ chính tòa Kon Tum,0,6,40,Kon Tum
+483,Núi Ngọc Linh,0,3,40,Kon Tum
+484,Sông Đăk Bla,1,3,40,Kon Tum
+485,Thác nước Pa Sy,0,3,40,Kon Tum
+486,Làng dân tộc Bana – Làng văn hóa Kon K’Tu,0,1,40,Kon Tum
+487,Thác nước Khỉ,0,3,40,Kon Tum
+488,Rừng thông Măng Đen,1,3,40,Kon Tum
+489,Thác nước Yaly,0,3,40,Kon Tum
+490,Cửa khẩu Bờ Y,0,1,40,Kon Tum
+491,Giao Điểm Đông Dương,0,6,40,Kon Tum
+492,Chùa Khánh Lâm,0,5,40,Kon Tum
+493,Chùa Bác Ái,0,1,40,Kon Tum
+494,Làng chài Se San,0,1,40,Kon Tum
+495,Làng du lịch cộng đồng Kon Bring,1,1,40,Kon Tum
+496,Đèo Ô Quy Hồ,0,3,14,Lai Châu
+497,Đồi chè Tân Uyên,0,5,14,Lai Châu
+498,Cao nguyên Sìn Hồ,0,3,14,Lai Châu
+499,Bạch Mộng Lương Tử,0,2,14,Lai Châu
+500,Khu bảo tồn thiên nhiên Mường Tè,1,3,14,Lai Châu
+501,Đỉnh Pu Si Lung,0,2,14,Lai Châu
+502,Đỉnh Pu Ta Leng,0,2,14,Lai Châu
+503,Cánh đồng Mường Than,0,3,14,Lai Châu
+504,Khu bảo vật quốc gia bia Vua Lê Thái Tổ,0,6,14,Lai Châu
+505,Cầu kính Rồng Mây,0,5,14,Lai Châu
+506,Khu du lịch đỉnh đèo Hoàng Liên,1,3,14,Lai Châu
+507,Rừng hoa Đỗ Quyên trên đỉnh Pu Ta Leng,0,3,14,Lai Châu
+508,Thác Tác Tình,0,3,14,Lai Châu
+509,Suối nước nóng Vàng Po,0,3,14,Lai Châu
+510,Cửa khẩu Ma Lù Thàng,0,5,14,Lai Châu
+511,Thung Lũng Tình Yêu,0,1,44,Lâm Đồng
+512,Hồ Xuân Hương,0,3,44,Lâm Đồng
+513,Vườn Hoa Đà Lạt,0,5,44,Lâm Đồng
+514,Hồ Đại Ninh,0,3,44,Lâm Đồng
+515,Đồi Cỏ Và Rừng Tà Năng,0,3,44,Lâm Đồng
+516,Thác Bảo Đại,0,3,44,Lâm Đồng
+517,Thác Pongour,0,3,44,Lâm Đồng
+518,Đồi Mộng Mơ,0,3,44,Lâm Đồng
+519,Đồi chè Cầu Đất,0,5,44,Lâm Đồng
+520,Trại Mát,0,3,44,Lâm Đồng
+521,Ga Đà Lạt,0,5,44,Lâm Đồng
+522,Nhà thờ Con Gà,0,6,44,Lâm Đồng
+523,Đồi chè Cầu Đất,0,5,44,Lâm Đồng
+524,Thác Bảo Đại,0,3,44,Lâm Đồng
+525,Thác Pongour,0,3,44,Lâm Đồng
+526,Chùa Tam Thanh,0,6,4,Lạng Sơn
+527,Đỉnh Mẫu Sơn,0,3,4,Lạng Sơn
+528,Ải Chi Lăng,0,6,4,Lạng Sơn
+529,Hang Gió,0,3,4,Lạng Sơn
+530,Đền Mẫu Đồng Đăng,0,6,4,Lạng Sơn
+531,Chợ Đông Kinh,0,5,4,Lạng Sơn
+532,Thành Nhà Mạc,0,6,4,Lạng Sơn
+533,Động Nhị Thanh – Chùa Tam Giáo,0,6,4,Lạng Sơn
+534,Động Tam Thanh – Chùa Tam Thanh,0,6,4,Lạng Sơn
+535,Núi Tô Thị,0,3,4,Lạng Sơn
+536,Thành cổ Lạng Sơn,0,6,4,Lạng Sơn
+537,Suối Long Đầu,0,3,4,Lạng Sơn
+538,Giếng Tiên,0,3,4,Lạng Sơn
+539,Núi Nà Lay,0,3,4,Lạng Sơn
+540,Đền Tả Phủ,0,6,4,Lạng Sơn
+541,Đỉnh Fansipan,0,2,10,Lào Cai
+542,Nhà Thờ Đá Sa Pa,0,6,10,Lào Cai
+543,Bản Cát Cát,0,1,10,Lào Cai
+544,Núi Hàm Rồng,0,3,10,Lào Cai
+545,Bản Tả Phìn,0,1,10,Lào Cai
+546,Bản Lao Chải,0,1,10,Lào Cai
+547,Thác Bạc,0,3,10,Lào Cai
+548,Xã Y Tý,0,3,10,Lào Cai
+549,Thành phố SaPa,0,5,10,Lào Cai
+550,Dốc A Lù,0,3,10,Lào Cai
+551,Ngải Thầu,0,3,10,Lào Cai
+552,Đỉnh Lảo Thẩn,0,2,10,Lào Cai
+553,Nhìu Cồ San,0,2,10,Lào Cai
+554,Ngũ Chỉ Sơn,0,2,10,Lào Cai
+555,Chợ Cốc Lếu,0,5,10,Lào Cai
+556,Rừng Tràm Long An,0,3,51,Long An
+557,Công Viên 7 Kỳ Quan Thế Giới,0,5,51,Long An
+558,Nhà Cổ Trăm Cột,0,6,51,Long An
+559,Cảng Biển Tân Lập,0,3,51,Long An
+560,Làng Nổi Tân Lập,0,1,51,Long An
+561,Khu bảo tồn đất ngập nước Láng Sen,0,3,51,Long An
+562,Khu du lịch sinh thái Đồng Tháp Mười,1,3,51,Long An
+563,Vườn Thanh Long ở Châu Thành,0,3,51,Long An
+564,Khu du lịch Happy Land,2,5,51,Long An
+565,Đồn Rạch Cát,0,3,51,Long An
+566,Làng Cổ Phước Lộc Thọ,0,6,51,Long An
+567,Khu du lịch Cánh đồng bất tận,1,3,51,Long An
+568,Khu sinh thái Cát Tường Phú Sinh,0,3,51,Long An
+569,Núi Đất,0,3,51,Long An
+570,Cửa khẩu quốc tế Bình Hiệp,0,5,51,Long An
+571,Bảo Tàng Nam Định,0,5,22,Nam Định
+572,Nhà Thờ Xương Điền,0,6,22,Nam Định
+573,Cửa Ba Lạt,0,3,22,Nam Định
+574,Hồ Vị Xuyên,0,3,22,Nam Định
+575,Toà Giám Mục Bùi Chu,0,6,22,Nam Định
+576,Nhà Thờ Trung Linh,0,6,22,Nam Định
+577,Đền Trần Nam Định,0,6,22,Nam Định
+578,Nhà thờ Hưng Nghĩa,0,6,22,Nam Định
+579,Biển Thịnh Long,0,3,22,Nam Định
+580,Ruộng muối Bạch Long,0,3,22,Nam Định
+581,Vương Cung Thánh Đường Phú Nhai,0,6,22,Nam Định
+582,Tòa Giám mục Bùi Chu,0,6,22,Nam Định
+583,Núi Ngăm Vụ Bản,0,3,22,Nam Định
+584,Đền Trần,0,6,22,Nam Định
+585,Nhà thờ đổ Hải Lý,0,6,22,Nam Định
+586,Làng Đông Du,0,1,27,Nghệ An
+587,Vườn Quốc Gia Pù Mát,0,3,27,Nghệ An
+588,Đảo Chè Thanh Chương,0,3,27,Nghệ An
+589,President Ho Chi Minh Native Home,0,6,27,Nghệ An
+590,Biển Quỳnh Nghĩa,0,3,27,Nghệ An
+591,Cua Lo Beach,0,3,27,Nghệ An
+592,Khe Lau Lake,0,3,27,Nghệ An
+593,Thác Khe Kèm,0,3,27,Nghệ An
+594,Pu Huong Nature Reserve,0,3,27,Nghệ An
+595,Khu Bảo Tồn Thiên Nhiên Pù Hoạt,0,3,27,Nghệ An
+596,Pu Xai Lai Leng,0,3,27,Nghệ An
+597,Dong Du Valley,0,3,27,Nghệ An
+598,Thung Lũng Hoa Phủ Quỳ,0,3,27,Nghệ An
+599,Thác Sao Va,0,3,27,Nghệ An
+600,Đền Thờ Vua Quang Trung,0,6,27,Nghệ An
+601,Khu du lịch sinh thái Tràng An,0,3,23,Ninh Bình
+602,Chùa Bái Đính,0,6,23,Ninh Bình
+603,Khu du lịch Tam Cốc – Bích Động,0,3,23,Ninh Bình
+604,Thung Nham Ninh Bình,0,3,23,Ninh Bình
+605,Cố đô Hoa Lư,0,6,23,Ninh Bình
+606,Hang Múa Ninh Bình,0,3,23,Ninh Bình
+607,Tuyệt tình cốc Ninh Bình,0,3,23,Ninh Bình
+608,Động Am Tiên Ninh Bình,0,3,23,Ninh Bình
+609,Khu bảo tồn thiên nhiên Vân Long,0,3,23,Ninh Bình
+610,Núi Ngọa Long,0,3,23,Ninh Bình
+611,Đền Thái Vi,0,6,23,Ninh Bình
+612,Chùa Bích Động,0,6,23,Ninh Bình
+613,Động Thiên Hà,0,3,23,Ninh Bình
+614,Đền Trần,0,6,23,Ninh Bình
+615,Đền Đô,0,6,23,Ninh Bình
+616,Đền tháp Chăm Po Klong Garai,0,6,38,Ninh Thuận
+617,Làng bích họa Hòn Thiên,0,5,38,Ninh Thuận
+618,Cánh đồng điện gió Đầm Nại,0,3,38,Ninh Thuận
+619,Đầm Nại,0,3,38,Ninh Thuận
+620,Đồng cừu An Hòa,0,1,38,Ninh Thuận
+621,Đồi cát Mũi Dinh,0,3,38,Ninh Thuận
+622,Khu du lịch dã ngoại Tanyoli,0,5,38,Ninh Thuận
+623,Biển Ninh Chữ,0,3,38,Ninh Thuận
+624,Trùng Sơn Cổ Tự,0,6,38,Ninh Thuận
+625,Hòn Đỏ,0,3,38,Ninh Thuận
+626,Làng nho Thái An,0,1,38,Ninh Thuận
+627,Hang Rái,0,3,38,Ninh Thuận
+628,Vịnh Vĩnh Hy,0,3,38,Ninh Thuận
+629,Biển Bình Tiên,0,3,38,Ninh Thuận
+630,Đồng cừu Suối Tiên,0,1,38,Ninh Thuận
+631,Đền Hùng,0,6,7,Phú Thọ
+632,Núi Nghĩa Lĩnh,0,3,7,Phú Thọ
+633,Đền thờ Mẫu Âu Cơ,0,6,7,Phú Thọ
+634,Vườn quốc gia Ba Vì,0,3,7,Phú Thọ
+635,Đầm Ao Châu,0,3,7,Phú Thọ
+636,KDL Sinh Thái Đầm Long,0,5,7,Phú Thọ
+637,Công Viên Tuổi trẻ,0,5,7,Phú Thọ
+638,Khu Di Tích Đá Chông K9,0,6,7,Phú Thọ
+639,Chùa Dạm,0,6,7,Phú Thọ
+640,Hồ Suối Hai,0,3,7,Phú Thọ
+641,Đồi Chè Long Cốc,0,3,7,Phú Thọ
+642,Vườn quốc gia Xuân Sơn,0,3,7,Phú Thọ
+643,Đền Lăng Sương,0,6,7,Phú Thọ
+644,Khu Du Lịch Rừng Tự Nhiên Bằng Tạ,0,3,7,Phú Thọ
+645,Đền Tam Giang và Chùa Đại Bi,0,6,7,Phú Thọ
+646,Vịnh Vũng Rô,0,3,36,Phú Yên
+647,Bãi Gốc,0,3,36,Phú Yên
+648,Bãi Xép,0,3,36,Phú Yên
+649,Núi Nhạn,0,3,36,Phú Yên
+650,Bãi Môn – Mũi Điện,0,3,36,Phú Yên
+651,Vịnh Xuân Đài,0,3,36,Phú Yên
+652,Cầu gỗ Ông Cọp,0,5,36,Phú Yên
+653,Hòn Yến,0,3,36,Phú Yên
+654,Thác H’Ly sông Hinh,0,3,36,Phú Yên
+655,Nhà thờ Mằng Lăng,0,6,36,Phú Yên
+656,Bãi Long Thủy,0,3,36,Phú Yên
+657,Ghềnh Đá Đĩa,0,3,36,Phú Yên
+658,Cao nguyên Vân Hòa,0,3,36,Phú Yên
+659,Đập Đồng Cam,0,3,36,Phú Yên
+660,Núi Đá Bia,0,3,36,Phú Yên
+661,Vịnh Vũng Chùa,0,3,29,Quảng Bình
+662,Bãi biển Nhật Lệ,0,3,29,Quảng Bình
+663,Bãi biển Bảo Ninh,0,3,29,Quảng Bình
+664,Cồn cát Quang Phú,0,3,29,Quảng Bình
+665,Bãi Đá Nhảy,0,3,29,Quảng Bình
+666,Vườn Quốc gia Phong Nha Kẻ Bàng,0,3,29,Quảng Bình
+667,Động Phong Nha,0,3,29,Quảng Bình
+668,Cầu Nhật Lệ,0,5,29,Quảng Bình
+669,Quảng Bình Quan,0,5,29,Quảng Bình
+670,Thành cổ Đồng Hới,0,6,29,Quảng Bình
+671,Tượng đài Mẹ Suốt,0,6,29,Quảng Bình
+672,Bảo tàng Quảng Bình,0,5,29,Quảng Bình
+673,Bàu Tró,0,3,29,Quảng Bình
+674,Đèo Ngang,0,3,29,Quảng Bình
+675,Đền thờ Công Chúa Liễu Hạnh,0,6,29,Quảng Bình
+676,Phố cổ Hội An,0,6,33,Quảng Nam
+677,Suối Tiên,0,3,33,Quảng Nam
+678,Đảo Tam Hải,0,3,33,Quảng Nam
+679,VinWonders Nam Hộ An,5,5,33,Quảng Nam
+680,Làng Rau Trà Quế,0,1,33,Quảng Nam
+681,Làng Gốm Thanh Hà,0,1,33,Quảng Nam
+682,Vịnh Vũng Chùa,0,3,33,Quảng Nam
+683,Bãi Gốc,0,3,33,Quảng Nam
+684,Bãi Xép,0,3,33,Quảng Nam
+685,Núi Nhạn,0,3,33,Quảng Nam
+686,Bãi Môn – Mũi Điện,0,3,33,Quảng Nam
+687,Vịnh Xuân Đài,0,3,33,Quảng Nam
+688,Cầu gỗ Ông Cọp,0,5,33,Quảng Nam
+689,Quảng Bình Quan,0,5,33,Quảng Nam
+690,Thành cổ Đồng Hới,0,6,33,Quảng Nam
+691,Đảo Lý Sơn,0,3,34,Quảng Ngãi
+692,Cánh đồng muối Sa Huỳnh,0,3,34,Quảng Ngãi
+693,Bãi biển Mỹ Khê,0,3,34,Quảng Ngãi
+694,Vịnh Dung Quất,0,3,34,Quảng Ngãi
+695,Bãi biển Sa Huỳnh,0,3,34,Quảng Ngãi
+696,Cửa biển Sa Cần,0,3,34,Quảng Ngãi
+697,Khu bảo tồn thiên nhiên Kon Chư Răng,0,3,34,Quảng Ngãi
+698,Khu du lịch Thác Trắng Minh Long,1,3,34,Quảng Ngãi
+699,Đồng muối Sa Huỳnh,0,3,34,Quảng Ngãi
+700,Bãi biển Mỹ Khê,0,3,34,Quảng Ngãi
+701,Vịnh Dung Quất,0,3,34,Quảng Ngãi
+702,Bãi biển Sa Huỳnh,0,3,34,Quảng Ngãi
+703,Cửa biển Sa Cần,0,3,34,Quảng Ngãi
+704,Khu bảo tồn thiên nhiên Kon Chư Răng,0,3,34,Quảng Ngãi
+705,Khu du lịch Thác Trắng Minh Long,1,3,34,Quảng Ngãi
+706,Vịnh Hạ Long,0,3,9,Quảng Ninh
+707,Chùa Lôi Âm,0,6,9,Quảng Ninh
+708,Bãi Cháy,0,3,9,Quảng Ninh
+709,Núi Yên Tử,0,3,9,Quảng Ninh
+710,Đảo Ngọc Vừng,0,3,9,Quảng Ninh
+711,Đảo Tuần Châu,0,3,9,Quảng Ninh
+712,Đảo Quan Lạn,0,3,9,Quảng Ninh
+713,Thác Khe Vằn,0,3,9,Quảng Ninh
+714,Bảo tàng Quảng Ninh,0,5,9,Quảng Ninh
+715,Vịnh Bái Tử Long,0,3,9,Quảng Ninh
+716,Khu du lịch Thác Mơ,1,3,9,Quảng Ninh
+717,Đỉnh núi Cao Xiêm,0,3,9,Quảng Ninh
+718,Mũi Sa Vĩ,0,3,9,Quảng Ninh
+719,Làng Chài Ba Hang,0,3,9,Quảng Ninh
+720,Núi Bài Thơ,0,3,9,Quảng Ninh
+721,Thành cổ Quảng Trị,15,1,30,Quảng Trị
+722,Bãi biển Cửa Tùng,0,2,30,Quảng Trị
+723,Địa đạo Vịnh Mốc,2,1,30,Quảng Trị
+724,Làng cổ Bích La,0,1,30,Quảng Trị
+725,Thánh địa La Vang,0,1,30,Quảng Trị
+726,Nhà Tù Lao Bảo,1,1,30,Quảng Trị
+727,Khu di tích đôi bờ Hiền Lương,2,1,30,Quảng Trị
+728,Sân bay Tà Cơn,2,1,30,Quảng Trị
+729,Thắng Cảnh Đakrông,0,3,30,Quảng Trị
+730,Hang Động Brai,0,3,30,Quảng Trị
+731,Thành Tân Sở,0,1,30,Quảng Trị
+732,Cửa khẩu Lao Bảo,0,1,30,Quảng Trị
+733,Thác Chênh Vênh,0,3,30,Quảng Trị
+734,Khe Sanh,1,1,30,Quảng Trị
+735,Chùa Chén Kiểu,0,6,60,Sóc Trăng
+736,Chùa Dơi,0,6,60,Sóc Trăng
+737,Bãi biển Trần Đề,10,2,60,Sóc Trăng
+738,Khu du lịch Sinh thái Mỹ Tú,15,1,60,Sóc Trăng
+739,Bảo tàng Khmer Sóc Trăng,1,1,60,Sóc Trăng
+740,Vườn cò Tân Long,0,3,60,Sóc Trăng
+741,Biển Hồ Bể,2,2,60,Sóc Trăng
+742,Vườn quốc gia Tràm Chim,10,3,60,Sóc Trăng
+743,Cồn Mỹ Phước,5,1,60,Sóc Trăng
+744,Khu du lịch sinh thái Bình An,15,1,60,Sóc Trăng
+745,Wat Pătum Wôngsa Som Rông,0,6,60,Sóc Trăng
+746,Khu vui chơi Thiếu nhi Hồ Nước Ngọt,5,5,60,Sóc Trăng
+747,Khu căn cứ Tỉnh ủy Sóc Trăng,0,1,60,Sóc Trăng
+748,Chợ nổi Ngã Năm,10,5,60,Sóc Trăng
+749,Chùa La Hán,0,6,60,Sóc Trăng
+750,Nhà tù cũ và Bảo tàng Sơn La,2,1,15,Sơn La
+751,Bản Mòng,0,1,15,Sơn La
+752,Đỉnh Ta Xua,2,2,15,Sơn La
+753,Bảo tàng Sơn La,1,1,15,Sơn La
+754,Cao nguyên Mộc Châu,0,2,15,Sơn La
+755,Động Sơn Mộc Hương,1,3,15,Sơn La
+756,Làng dân tộc Thái,0,1,15,Sơn La
+757,Thung lũng mận Nà Ka,2,2,15,Sơn La
+758,Tà Xùa,0,3,15,Sơn La
+759,Ngã ba Cò Nòi.,0,1,15,Sơn La
+760,Cánh đồng Mường Tấc,0,3,15,Sơn La
+761,Hồng Ngài - Hang A Phủ,0,1,15,Sơn La
+762,Bản Lướt - Mường La,0,1,15,Sơn La
+763,Thác Dải Yếm,2,3,15,Sơn La
+764,Đỉnh Pha Luông,0,2,15,Sơn La
+765,Tòa Thánh Tây Ninh,0,6,48,Tây Ninh
+766,Núi Bà Đen,1,2,48,Tây Ninh
+767,Làng Điền Sơn,0,1,48,Tây Ninh
+768,Vườn Quốc gia Lò Gò - Xa Mát,2,3,48,Tây Ninh
+769,Chùa Gò Kén,0,6,48,Tây Ninh
+770,Rừng Chang Riec,0,3,48,Tây Ninh
+771,Cửa khẩu quốc tế Mộc Bài,0,1,48,Tây Ninh
+772,Chợ Trung tâm Long Hoa,0,5,48,Tây Ninh
+773,Hồ Dầu Tiếng,0,2,48,Tây Ninh
+774,Nông trại Nam Trạng,5,5,48,Tây Ninh
+775,Di tích chiến thắng Tua Hai,0,1,48,Tây Ninh
+776,Điện Bà Linh Sơn Thánh Mẫu,0,6,48,Tây Ninh
+777,Khu du lịch Ma Thiên Lãnh,0,3,48,Tây Ninh
+778,Khu du lịch Long Điền Sơn,5,5,48,Tây Ninh
+779,Tháp cổ Bình Thạnh,0,1,48,Tây Ninh
+780,Chợ Thông,0,5,24,Thái Bình
+781,Nhà thờ chính tòa Thái Bình,0,6,24,Thái Bình
+782,Khu du lịch sinh thái Cồn Đen,3,3,24,Thái Bình
+783,Làng nghề Đồng Xâm,0,1,24,Thái Bình
+784,Chùa Keo,0,6,24,Thái Bình
+785,Đền Trần,0,6,24,Thái Bình
+786,Bãi biển Đồng Châu,0,2,24,Thái Bình
+787,Bãi biển Cồn Vành,0,2,24,Thái Bình
+788,Nhà thờ Bác Trạch,0,6,24,Thái Bình
+789,Biển Đồng Châu,0,2,24,Thái Bình
+790,Chùa Keo,0,6,24,Thái Bình
+791,Biển Cồn Đen,3,2,24,Thái Bình
+792,Đền Đồng Xâm và làng chạm bạc Đồng Xâm,0,1,24,Thái Bình
+793,Làng vườn Bách Thuận,0,1,24,Thái Bình
+794,Đền Tiên La,0,6,24,Thái Bình
+795,Đồi chè Tân Cương,0,1,6,Thái Nguyên
+796,Hồ Núi Cốc,6,2,6,Thái Nguyên
+797,Hang Phượng Hoàng - Suối Mỏ Gà,5,3,6,Thái Nguyên
+798,Thác Khuôn Tát,0,4,6,Thái Nguyên
+799,Động Linh Sơn,0,5,6,Thái Nguyên
+800,Hồ Ghềnh Chè,0,2,6,Thái Nguyên
+801,Trại ngựa Bá Vân,2,3,6,Thái Nguyên
+802,Thác Mưa Rơi,0,3,6,Thái Nguyên
+803,Suối Đát Đắng,0,3,6,Thái Nguyên
+804,Hồ Vai Miếu,2,2,6,Thái Nguyên
+805,Chùa Hang,0,6,6,Thái Nguyên
+806,Hồ Suối Lạnh,0,2,6,Thái Nguyên
+807,Không gian văn hóa trà Tân Cương,0,1,6,Thái Nguyên
+808,An toàn khu ATK Định Hóa,0,1,6,Thái Nguyên
+809,Khu Bảo Tồn Nhà Sàn Dân Tộc Thái Hải,0,1,6,Thái Nguyên
+810,Du lịch Sầm Sơn Thanh Hóa,5,1,26,Thanh Hóa
+811,Thành nhà Hồ,2,1,26,Thanh Hóa
+812,Du lịch suối cá thần Thanh Hóa,1,3,26,Thanh Hóa
+813,Khu di tích Lam Kinh,3,1,26,Thanh Hóa
+814,Pù Luông,1,1,26,Thanh Hóa
+815,Biển Hải Tiến,0,2,26,Thanh Hóa
+816,Thác Voi,1,1,26,Thanh Hóa
+817,Thác Mây,1,1,26,Thanh Hóa
+818,Khu du lịch Bến En Thanh Hóa,5,1,26,Thanh Hóa
+819,Biển Hải Hòa,0,2,26,Thanh Hóa
+820,Bãi Đông,1,2,26,Thanh Hóa
+821,Cầu Hàm Rồng,0,1,26,Thanh Hóa
+822,Đảo Hòn Mê,0,2,26,Thanh Hóa
+823,Vườn quốc gia Cúc Phương,5,3,26,Thanh Hóa
+824,Thái miếu nhà Lê,0,1,26,Thanh Hóa
+825,Đại Nội Huế,10,1,31,Thừa Thiên Huế
+826,Sông Hương,5,3,31,Thừa Thiên Huế
+827,Cầu Trường Tiền Huế,0,1,31,Thừa Thiên Huế
+828,Phố Cổ Bao Vinh Huế,1,1,31,Thừa Thiên Huế
+829,Cầu Ngói Thanh Toàn Huế,0,1,31,Thừa Thiên Huế
+830,Cầu Gỗ Lim,0,1,31,Thừa Thiên Huế
+831,Núi Ngự Bình,0,2,31,Thừa Thiên Huế
+832,Chợ Đông Ba,5,5,31,Thừa Thiên Huế
+833,Trường Quốc Học Huế,0,1,31,Thừa Thiên Huế
+834,Phố Đi Bộ Huế,5,5,31,Thừa Thiên Huế
+835,Nhà Thờ Phủ Cam Huế,0,6,31,Thừa Thiên Huế
+836,Làng Hương Thủy Xuân Huế,0,1,31,Thừa Thiên Huế
+837,Nhà Vườn An Hiên Huế,1,1,31,Thừa Thiên Huế
+838,Hải Vân Quan,0,1,31,Thừa Thiên Huế
+839,Vườn Quốc Gia Bạch Mã,5,3,31,Thừa Thiên Huế
+840,Chùa Vĩnh Tràng,0,6,53,Tiền Giang
+841,Chợ nổi Cái Bè,5,5,53,Tiền Giang
+842,Cù Lao Thới Sơn,15,3,53,Tiền Giang
+843,Trại rắn Đồng Tâm,2,3,53,Tiền Giang
+844,Vườn hoa Mãn Đình Hồng,2,3,53,Tiền Giang
+845,Nhà thờ Cái Bè,0,6,53,Tiền Giang
+846,Thiền viện Trúc Lâm Chánh Giác,0,6,53,Tiền Giang
+847,Di tích lịch sử Rạch Gầm - Xoài Mút,1,1,53,Tiền Giang
+848,Nhà cổ Lê Quang Xoát,1,1,53,Tiền Giang
+849,Chợ trái cây Vĩnh Kim,5,5,53,Tiền Giang
+850,Khu Di tích Chiến thắng Ấp Bắc,1,1,53,Tiền Giang
+851,Lăng Hoàng Gia,0,1,53,Tiền Giang
+852,Vườn hoa Mãn Đình Hồng,2,3,53,Tiền Giang
+853,Bách Nhật Hoa Viên,0,2,53,Tiền Giang
+854,Quảng trường Trung tâm tỉnh Tiền Giang,0,5,53,Tiền Giang
+855,Nhà thờ Đức Bà,0,6,50,TP Hồ Chí Minh
+856,Dinh Độc Lập,3,1,50,TP Hồ Chí Minh
+857,Chợ Bến Thành Quận 1,5,5,50,TP Hồ Chí Minh
+858,Landmark 81,20,5,50,TP Hồ Chí Minh
+859,Khu du lịch sinh thái Bình Quới,10,3,50,TP Hồ Chí Minh
+860,Nhà hát Lớn Thành phố,30,4,50,TP Hồ Chí Minh
+861,Bảo tàng Lịch sử Thành phố Hồ Chí Minh,1,1,50,TP Hồ Chí Minh
+862,Bảo tàng Phụ Nữ Nam Bộ,2,1,50,TP Hồ Chí Minh
+863,Nhà cổ Lê Quang Xoát,1,1,50,TP Hồ Chí Minh
+864,Bến Nhà Rồng – Bảo tàng Hồ Chí Minh,1,1,50,TP Hồ Chí Minh
+865,Khu du lịch Suối Tiên,10,5,50,TP Hồ Chí Minh
+866,Thảo Cầm Viên,3,3,50,TP Hồ Chí Minh
+867,Công viên nước Đầm Sen,10,5,50,TP Hồ Chí Minh
+868,Bảo tàng tranh 3D Artinus,10,4,50,TP Hồ Chí Minh
+869,Địa đạo Củ Chi,1,1,50,TP Hồ Chí Minh
+870,Phố đi bộ Bùi Viện,10,5,50,TP Hồ Chí Minh
+871,Sông Sài Gòn,5,1,50,TP Hồ Chí Minh
+872,Chùa Hang,0,6,57,Trà Vinh
+873,Chùa Âng,0,6,57,Trà Vinh
+874,Bảo tàng Văn hóa dân tộc Khmer,1,1,57,Trà Vinh
+875,Chùa Khmer Vàm Ray,0,1,57,Trà Vinh
+876,Ao Bà Om,0,3,57,Trà Vinh
+877,Khu Du Lịch Sinh Thái Rừng Đước,5,3,57,Trà Vinh
+878,Chùa Cò,0,6,57,Trà Vinh
+879,Thánh đường giáo xứ Mặc Bắc,0,6,57,Trà Vinh
+880,Thiền viện Trúc Lâm Trà Vinh,0,6,57,Trà Vinh
+881,Đền thờ Bác Hồ,0,1,57,Trà Vinh
+882,Thiên hậu cung Trà Vinh,0,1,57,Trà Vinh
+883,Cánh đồng diều Trà Vinh,0,3,57,Trà Vinh
+884,Biển Ba Động,0,2,57,Trà Vinh
+885,Cù Lao Tân Quy,5,3,57,Trà Vinh
+886,Cồn Nghêu,0,2,57,Trà Vinh
+887,Quảng trường Nguyễn Tất Thành,0,5,5,Tuyên Quang
+888,Bảo tàng tỉnh Tuyên Quang,0,1,5,Tuyên Quang
+889,Đài tưởng niệm Tuyên Quang,0,1,5,Tuyên Quang
+890,Đền Hạ,0,6,5,Tuyên Quang
+891,Khu du lịch sinh thái Na Hang,1,3,5,Tuyên Quang
+892,Đền Pắc Tạ,1,6,5,Tuyên Quang
+893,Thác Mơ,1,3,5,Tuyên Quang
+894,Động Song Long,5,3,5,Tuyên Quang
+895,Khu du lịch Tân Trào,1,1,5,Tuyên Quang
+896,Khu suối khoáng Mỹ Lâm,15,5,5,Tuyên Quang
+897,Thác Nặm Me,0,3,5,Tuyên Quang
+898,ATK Tân Trào,0,1,5,Tuyên Quang
+899,Lán Nà Lừa,0,1,5,Tuyên Quang
+900,Thắng cảnh Quốc gia Động Tiên,0,3,5,Tuyên Quang
+901,Hang Bòng,0,3,5,Tuyên Quang
+902,Chùa Phật Ngọc Xá Lợi Vĩnh Long,0,6,56,Vĩnh Long
+903,Chùa Ông Thất Phủ Miếu,0,6,56,Vĩnh Long
+904,Khu du lịch Vinh Sang,5,3,56,Vĩnh Long
+905,Nhà cổ Cai Cường Vĩnh Long,0,1,56,Vĩnh Long
+906,Lò gạch Mang Thít,0,1,56,Vĩnh Long
+907,Cù Lao Mây Vĩnh Long,1,3,56,Vĩnh Long
+908,Vườn trái cây 6 Tấn Vĩnh Long,5,5,56,Vĩnh Long
+909,Chợ nổi Trà Ôn Vĩnh Long,5,5,56,Vĩnh Long
+910,Du lịch Cầu Mỹ Thuận Vĩnh Long,0,1,56,Vĩnh Long
+911,Văn Thánh Miếu Vĩnh Long,5,1,56,Vĩnh Long
+912,Khu du lịch Trường An Vĩnh Long,5,3,56,Vĩnh Long
+913,Khu sinh thái nhà xưa Vĩnh Long,0,3,56,Vĩnh Long
+914,Khu sinh thái Hoàng Quân Vĩnh Long,1,3,56,Vĩnh Long
+915,Cù lao An Bình Vĩnh Long,3,3,56,Vĩnh Long
+916,Khu du lịch Trường Huy Vĩnh Long,5,5,56,Vĩnh Long
+917,Đầm Vạc,0,3,25,Vĩnh Phúc
+918,Chùa Tích Sơn,0,6,25,Vĩnh Phúc
+919,Hồ Đại Lải,20,3,25,Vĩnh Phúc
+920,Đền Ngô Tướng Công,0,1,25,Vĩnh Phúc
+921,Đình Tây Hạ,0,1,25,Vĩnh Phúc
+922,Núi Sáng,0,2,25,Vĩnh Phúc
+923,Chùa Động Lâm,0,6,25,Vĩnh Phúc
+924,Thiền Viện Trúc Lâm Tây Thiên,20,6,25,Vĩnh Phúc
+925,Nhà thờ Tam Đảo,30,6,25,Vĩnh Phúc
+926,Hồ Thanh Lanh,0,3,25,Vĩnh Phúc
+927,Đình Hương Canh,0,1,25,Vĩnh Phúc
+928,Chùa Biện Sơn,0,6,25,Vĩnh Phúc
+929,Đình làng Mộc Bích Chu,0,1,25,Vĩnh Phúc
+930,Chùa Linh Sơn,0,6,25,Vĩnh Phúc
+931,Tháp Bình Sơn,0,1,25,Vĩnh Phúc
+932,Khu Sinh Thái Suối Giàng,0,3,11,Yên Bái
+933,Suối Khoáng Bản Hốc,1,3,11,Yên Bái
+934,Đèo Khau Phạ,0,3,11,Yên Bái
+935,Ruộng Bậc Thang Chế Cu Nha,0,3,11,Yên Bái
+936,Lăng Mộ Nguyễn Thái Học,0,1,11,Yên Bái
+937,Khu Sinh Thái Ecolodge Mù Cang CHải,0,3,11,Yên Bái
+938,Chùa Động Lâm,0,6,11,Yên Bái
+939,Ruộng Bậc Thang Xã La Pán Tẩn,1,3,11,Yên Bái
+940,Thác Pú Nhu,0,2,11,Yên Bái
+941,Bình Nguyên Xanh Khai Trung,3,3,11,Yên Bái
+942,Chợ Đá Quý Lục Yên,5,5,11,Yên Bái
+943,Đền Mẫu Đông Cuông,0,1,11,Yên Bái
+944,Suối Nước Nóng Trạm Tấu,5,3,11,Yên Bái
+945,Di tích Căng Đồn,0,1,11,Yên Bái
+946,Đèo Lũng Lô,0,2,11,Yên Bái
